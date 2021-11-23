@@ -199,7 +199,7 @@ synchronized public void checkingTheQuery(String[] str, String[] queryWords)
 			System.out.println(counterForQueryMatch + " number of matches found in " + str[0] + " file");
 			if (storeWordsSecondTime.equals(queryWords))
 			{
-				System.out.println("Proper match with the " + str[0] + " file");
+				System.out.println("Proper match with the  " + str[0] + " file");
 			}
 			
 			
